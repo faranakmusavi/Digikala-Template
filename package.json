@@ -1,0 +1,19 @@
+{
+  "name": "final-progect-01",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "swipe": "^1.7.7",
+    "swiper": "^11.1.14"
+  }
+}
